@@ -33,7 +33,7 @@ def execute(args):
                  args.min_price, args.max_price)
     dataframe['last_review'] = pd.to_datetime(dataframe['last_review'])
     logger.info("Dataset last_review data type fix")
-
+    # modify for new release
     idx = dataframe['longitude'].between(-74.25, -73.50) & dataframe['latitude'].between(40.5, 41.2)
     dataframe = dataframe[idx].copy()
 
