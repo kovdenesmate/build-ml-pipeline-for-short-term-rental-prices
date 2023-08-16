@@ -5,6 +5,7 @@ https://wandb.ai/denesmate1/nyc_airbnb?workspace=user-denesmate1
 
 Github link: 
 https://github.com/denesmate/build-ml-pipeline-for-short-term-rental-prices
+
 https://github.com/denesmate/build-ml-pipeline-for-short-term-rental-prices.git
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
